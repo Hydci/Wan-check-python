@@ -1,5 +1,4 @@
-```python
-#!/usr/bin/python3
+#usr/bin/python3
 # -*- coding: utf-8 -*-
 #Importation de modules utilise
 import os
@@ -42,4 +41,3 @@ def programme() :
 #Si tu veux un sms lors du demarrage du programme mettre la commande curl en dessous
 #URL notification par sms
 programme()
-```
